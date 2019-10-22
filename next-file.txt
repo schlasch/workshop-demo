@@ -1,0 +1,3 @@
+Trying out git 
+
+this is to show how to add more files
